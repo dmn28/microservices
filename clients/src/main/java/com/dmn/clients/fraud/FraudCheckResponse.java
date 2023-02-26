@@ -1,4 +1,4 @@
-package com.dmn.fraud;
+package com.dmn.clients.fraud;
 
 public record FraudCheckResponse(Boolean isFraudster) {
 }
