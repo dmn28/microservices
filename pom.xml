@@ -16,7 +16,8 @@
     <module>customer</module>
     <module>fraud</module>
     <module>eurekaServer</module>
-      <module>clients</module>
+    <module>clients</module>
+    <module>notification</module>
   </modules>
 
   <properties>
